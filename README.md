@@ -1,5 +1,6 @@
 # Willkommen zur Informatik II Übungsstunde
-**⏱️WEEKDAY TIME 📍Location**
+**⏱️WEEKDAY TIME 📍Location** 
+
 **⏱️WEEKDAY TIME 📍Location**
 
 Hier findest du alle Unterlagen für meine Übungsstunde. Eventuell werde ich gewisse Ankündigungen auch hier (prominent) notieren.
