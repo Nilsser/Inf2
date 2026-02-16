@@ -17,7 +17,7 @@ Hier findest du alle Unterlagen für meine Übungsstunde. Eventuell werde ich ge
 | 80-90  | Tipps für die Expert Aufgaben                 |
 
 ## Feedback Übungsstunde 📈
-schätze ich sehr, gerne hier (anonym) **LINK**
+schätze ich sehr, gerne hier (anonym) **https://forms.gle/cAC43Gtg46K71phD8**
 
 ### Kontakt
 Bei Fragen aller Art: ✉️ nserck@ethz.ch
