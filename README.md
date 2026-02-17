@@ -1,7 +1,7 @@
 # Willkommen zur Informatik II Übungsstunde
 **⏱️Mittwochs 16:00-18:00 📍CHN D 29** 
 
-**⏱️WEEKDAY TIME 📍Location**
+
 
 Hier findest du alle Unterlagen für meine Übungsstunde. Eventuell werde ich gewisse Ankündigungen auch hier (prominent) notieren.
 
@@ -9,10 +9,10 @@ Hier findest du alle Unterlagen für meine Übungsstunde. Eventuell werde ich ge
 
 | min.   | Programm                                      |
 | ------ | --------------------------------------------- |
-| 0-10   | recap der vergangene Woche                    |
-| 10-25  | overall repetitions Quiz                      |
+| 0-10   | Recap der vergangene Woche                    |
+| 10-25  | overall repetitions Quiz (ab Woche 3)         |
 | 25- 45 | Theorie Recap der aktuellen Vorlesung         |
-|        | **Pause**  ☕                                  |
+|        | **Pause**  ☕                                 |
 | 45-80  | Beispielaufgaben, Prüfungsaufgaben und Tricks |
 | 80-90  | Tipps für die Expert Aufgaben                 |
 
