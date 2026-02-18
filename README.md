@@ -1,5 +1,5 @@
 # Willkommen zur Informatik II Übungsstunde
-**⏱️Mittwochs 16:00-18:00 📍CHN D 29** 
+**⏱️Mittwochs 16:15-18:00 📍CHN D 29** 
 
 
 
