@@ -1,0 +1,9 @@
+Flugnummer,Airline,Zielort,Geplante_Zeit,Gate,Flugzeugtyp,Passagiere,Distanz_mi
+LX1010,Swiss Int. Air Lines,LHR,07:00,A12,Airbus A320neo,"-",491
+WK402,Edelweiss Air,PMI,07:15,B34,Airbus A320,158,643
+LH2367,Lufthansa,MUC,08:30,A05,Airbus A319,"-",162
+LX18,Swiss Int. Air Lines,JFK,10:15,E27,Airbus A330-300,221,3927
+EK88,Emirates,DXB,14:35,E46,Boeing 777-300ER,345,2964
+LX2084,Swiss Int. Air Lines,LIS,15:20,A18,Airbus A321neo,198,1072
+OS564,Austrian Airlines,VIE,17:45,D02,Embraer 195,108,373
+LX40,Swiss Int. Air Lines,LAX,13:10,E19,Boeing 777-300ER,312,5940
